@@ -56,7 +56,6 @@ const Item = () => {
                         <img
                             className='img-main-picture'
                             src={item.Items_img[mainImageIndex].image_url}
-                            // [currentImage]
                             alt="main_picture"
                         />
                     </div>
